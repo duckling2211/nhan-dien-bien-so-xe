@@ -4,7 +4,7 @@ Thầy hướng dẫn đã cung cấp sẵn mã nguồn, kho ảnh, và hướng
 ## Thành viên
 1. Lê Minh Đức: Viết kế hoạch, tổng hợp/viết báo cáo hoàn thiện.
 2. Tôn Thất Nhật Minh: Test cơ bản mô hình; viết về khái niệm bài toán, mô hình YOLOv5.
-(Nhóm dùng YOLOv11, trong yêu cầu có hỏi về YOLOv5 nên nhóm chọn trình bày cả hai trong báo cáo).
+(Nhóm dùng YOLOv11).
 3. Trần Nguyễn Hữu Phước: Tìm thêm ảnh, viết về dataset, thiết kế powerpoint thuyết trình.
 4. Nguyễn Hoàng Phúc Thịnh: Viết về mô hình bài toán, dựng mô hình và tạo web demo cơ bản.
 5. Diệp Minh Khánh Tuân: Test nâng cao mô hình; viết về ứng dụng bài toán, quá trình train/test.
