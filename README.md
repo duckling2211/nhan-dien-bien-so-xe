@@ -9,8 +9,6 @@ Thầy hướng dẫn đã cung cấp sẵn mã nguồn, kho ảnh, và hướng
 4. Nguyễn Hoàng Phúc Thịnh: Viết về mô hình bài toán, dựng mô hình và tạo web demo cơ bản.
 5. Diệp Minh Khánh Tuân: Test nâng cao mô hình; viết về ứng dụng bài toán, quá trình train/test.
 
-## Báo cáo 
-
 ## Credits
 Mô hình trong video demo là của bạn Nguyễn Hoàng Phúc Thịnh. Sau đó được các bạn test bổ sung.
 
